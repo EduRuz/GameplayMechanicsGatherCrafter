@@ -1,0 +1,21 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "InGameMaterials.h"
+
+/**
+ * 
+ */
+class GATHERCRAFTER_API CopperOreInGameMaterial : public InGameMaterials
+{
+public:
+	CopperOreInGameMaterial();
+	~CopperOreInGameMaterial();
+
+private:
+
+
+protected:
+};
